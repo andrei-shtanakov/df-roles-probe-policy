@@ -1,0 +1,4 @@
+# Режим каждого продукта: "<owner>/<repo>": merge | review.
+schema: approval-policy-modes/v1
+modes:
+  "andrei-shtanakov/df-roles-probe": review
